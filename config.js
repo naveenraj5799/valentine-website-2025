@@ -28,6 +28,20 @@ const CONFIG = {
         }
     },
 
+    // Love Meter Messages
+loveMessages: {
+    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
+    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
+    normal: "And beyond! 🥰"                           // Shows above 100%
+}
+
+// Final Celebration
+celebration: {
+    title: "Yay! I'm the luckiest person...",     // Celebration title
+    message: "Now come get your gift...",          // Celebration message
+    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+}
+
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
